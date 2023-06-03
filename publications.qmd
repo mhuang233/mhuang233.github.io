@@ -3,5 +3,23 @@ title: "Publications"
 ---
 
 ## Preprints
+- **Bayesian Stacking In Multilevel Models** ( 2023)
+    <br><ins>Mingya Huang</ins>, David Kaplan
+    <br> [[preprint](https://psyarxiv.com/e9m6x/)] [[code](https://github.com/huskyh233)]
+    
+## Peer-reviewed Papers
+- Kaplan, D., & <ins>Huang, M.</ins>. (2021). **Bayesian probabilistic forecasting with large-scale educational trend data: a case study using NAEP**. _Large-scale Assessments in Education_, 9(1), 1-31.
+    <br>[[paper](https://largescaleassessmentsineducation.springeropen.com/articles/10.1186/s40536-021-00108-2)]
 
-## Peer-reviewed Publications
+- Garbacz, S. A., Stormshak, E. A., McIntyre, L. L., Bolt, D., & <ins>Huang, M.</ins>. (2022). **Family-Centered Prevention During Elementary School to Reduce Growth in Emotional and Behavior Problems**. _Journal of Emotional and Behavioral Disorders_, 10634266221143720.
+    <br>[[paper](https://journals-sagepub-com.ezproxy.library.wisc.edu/doi/full/10.1177/10634266221143720?casa_token=ywulmi8gvkkAAAAA%3AVBQd0M87g0LfgcT_1qgMCjGYPyzTS2ADkBVANXebAWV_tmbsJWXQWiDxQLcTi4uAMgVGWXFciUc)]
+
+- Xia, Y., Luo, Y., <ins>Huang, M.</ins>, & Yang, Y. (2022). **On the use of inclusive strategy when some participants fail to provide data on all studied variables**. _International Journal of Quantitative Research in Education_, 5(4), 356-378.
+    <br>[[paper](https://www.inderscienceonline.com/doi/abs/10.1504/IJQRE.2022.129794)]
+
+- <ins>Huang, M.</ins>, Anderson, C. (2021). **A Bayesian solution to non-convergence of crossed random effects models** _Quantitative Psychology: The 85th Annual Meeting of the Psychometric Society, Virtual,_ (pp. 297-307). Springer International Publishing.
+    <br>[[paper](https://link.springer.com/chapter/10.1007/978-3-030-74772-5_27)]
+
+ 
+- <ins>Mingya Huang</ins>, Carolyn Anderson, (2021). **A Bayesian solution to non-convergence of crossed random effects models** _Quantitative Psychology: The 85th Annual Meeting of the Psychometric Society, Virtual,_ (pp. 297-307). Springer International Publiishing.
+    <br>[[paper](https://link.springer.com/chapter/10.1007/978-3-030-74772-5_27)]

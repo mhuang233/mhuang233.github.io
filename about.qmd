@@ -24,8 +24,8 @@ My research involves developing Bayesian statistics as well as Machine Learing m
 
 -   Bayesian Statistics
 
--   Machine/Deep Learning
+-   Machine Learning
+
+-   Hierarchical Clustering
 
 -   Causal Inference
-
--   Clustered Data and Multilevel Analysis

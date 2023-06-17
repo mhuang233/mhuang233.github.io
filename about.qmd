@@ -12,11 +12,14 @@ about:
     - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.com/citations?user=VLXXJ7QAAAAJ&hl=en&oi=ao
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mingya-huang-5ab1b11a7/
 ---
 
 # About
 
-I am a Ph.D. student in Quantitative Methods working with [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/#:~:text=David%20Kaplan%20is%20the%20Patricia,Center%20for%20Demography%20and%20Ecology.) in the Department of Educational Psychology and [Dr. Sameer Deshpande](https://skdeshpande91.github.io/) in the Department of Statistics at University of Wisconsin-Madison. Prior to that, I graduated with an M.S. in Quantitative Methods under the supervision of [Dr. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at University of Illinois Urbana-Champaign. I got my undergraduate degree in Education and Psychology at University of Macao.\
+I am a Ph.D. student in Quantitative Methods working with [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/#:~:text=David%20Kaplan%20is%20the%20Patricia,Center%20for%20Demography%20and%20Ecology.) in the Department of Educational Psychology and [Dr. Sameer Deshpande](https://skdeshpande91.github.io/) in the Department of Statistics at University of Wisconsin-Madison. Prior to that, I graduated with an M.S. in Quantitative Methods under the supervision of [Dr. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at University of Illinois Urbana-Champaign. \
 \
 My research involves developing Bayesian statistics as well as Machine Learing methods for problems in education, psychology, and social science researches. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data.
 

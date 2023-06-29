@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "Mingya HUANG",
     "section": "",
-    "text": "I am a Ph.D. student in Quantitative Methods working with Dr. David Kaplan in the Department of Educational Psychology and Dr. Sameer Deshpande in the Department of Statistics at University of Wisconsin-Madison. Prior to that, I graduated with an M.S. in Quantitative Methods under the supervision of Dr. Carolyn Anderson at University of Illinois Urbana-Champaign.\n\nMy research involves developing Bayesian statistics as well as Machine Learing methods for problems in education, psychology, and social science researches. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data.\n\n\n\nBayesian Statistics\nMachine Learning\nHierarchical Clustering\nCausal Inference"
+    "text": "I am a Ph.D. student in Quantitative Methods working with Dr. David Kaplan in the Department of Educational Psychology and Dr. Sameer Deshpande in the Department of Statistics at University of Wisconsin-Madison. Prior to that, I graduated with an M.S. in Quantitative Methods under the supervision of Dr. Carolyn Anderson at University of Illinois Urbana-Champaign.\n\nMy research involves developing Bayesian statistics as well as Machine Learing methods for problems in education, psychology, and social science researches. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data.\n\n\n\nBayesian Statistics\nMachine Learning\nCluster Models\nCausal Inference"
   },
   {
     "objectID": "about.html#interests",
     "href": "about.html#interests",
     "title": "Mingya HUANG",
     "section": "",
-    "text": "Bayesian Statistics\nMachine Learning\nHierarchical Clustering\nCausal Inference"
+    "text": "Bayesian Statistics\nMachine Learning\nCluster Models\nCausal Inference"
   },
   {
     "objectID": "teaching.html",
@@ -46,34 +46,34 @@
     "href": "index.html",
     "title": "Mingya HUANG",
     "section": "",
-    "text": "I am a Ph.D. student in Quantitative Methods working with Dr. David Kaplan in the Department of Educational Psychology and Dr. Sameer Deshpande in the Department of Statistics at University of Wisconsin-Madison. Prior to that, I graduated with an M.S. in Quantitative Methods under the supervision of Dr. Carolyn Anderson at University of Illinois Urbana-Champaign.\n\nMy research involves developing Bayesian statistics as well as Machine Learing methods for problems in education, psychology, and social science researches. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data.\n\n\n\nBayesian Statistics\nMachine Learning\nHierarchical Clustering\nCausal Inference"
+    "text": "I am a Ph.D. student in Quantitative Methods working with Dr. David Kaplan in the Department of Educational Psychology and Dr. Sameer Deshpande in the Department of Statistics at University of Wisconsin-Madison. Prior to that, I graduated with an M.S. in Quantitative Methods under the supervision of Dr. Carolyn Anderson at University of Illinois Urbana-Champaign.\n\nMy research involves developing Bayesian statistics as well as Machine Learing methods for problems in education, psychology, and social science researches. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data.\n\n\n\nBayesian Statistics\nMachine Learning\nCluster Models\nCausal Inference"
   },
   {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
     "title": "Mingya HUANG",
     "section": "",
-    "text": "Bayesian Statistics\nMachine Learning\nHierarchical Clustering\nCausal Inference"
+    "text": "Bayesian Statistics\nMachine Learning\nCluster Models\nCausal Inference"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Bayesian Stacking In Multilevel Models ( 2023) Mingya Huang, David Kaplan  [preprint] [code]"
+    "text": "Mingya Huang, David Kaplan (2023). Bayesian Stacking In Multilevel Models [preprint] [code]"
   },
   {
     "objectID": "publications.html#preprints",
     "href": "publications.html#preprints",
     "title": "Publications",
     "section": "",
-    "text": "Bayesian Stacking In Multilevel Models ( 2023) Mingya Huang, David Kaplan  [preprint] [code]"
+    "text": "Mingya Huang, David Kaplan (2023). Bayesian Stacking In Multilevel Models [preprint] [code]"
   },
   {
     "objectID": "publications.html#peer-reviewed-papers",
     "href": "publications.html#peer-reviewed-papers",
     "title": "Publications",
     "section": "Peer-reviewed Papers",
-    "text": "Peer-reviewed Papers\n\nKaplan, D., & Huang, M. (2021). Bayesian probabilistic forecasting with large-scale educational trend data: a case study using NAEP. Large-scale Assessments in Education, 9(1), 1-31. [paper]\nGarbacz, S. A., Stormshak, E. A., McIntyre, L. L., Bolt, D., & Huang, M.. (2022). Family-Centered Prevention During Elementary School to Reduce Growth in Emotional and Behavior Problems. Journal of Emotional and Behavioral Disorders, 10634266221143720. [paper]\nXia, Y., Luo, Y., Huang, M., & Yang, Y. (2022). On the use of inclusive strategy when some participants fail to provide data on all studied variables. International Journal of Quantitative Research in Education, 5(4), 356-378. [paper]\n\nHuang, M.\n\nAnderson, C. (2021). A Bayesian solution to non-convergence of crossed random effects models. Quantitative Psychology: The 85th Annual Meeting of the Psychometric Society, Virtual, (pp. 297-307). Springer International Publishing. [paper]"
+    "text": "Peer-reviewed Papers\n\nKaplan, D., & Huang, M. (2021). Bayesian probabilistic forecasting with large-scale educational trend data: a case study using NAEP. Large-scale Assessments in Education, 9(1), 1-31. [paper]\nGarbacz, S. A., Stormshak, E. A., McIntyre, L. L., Bolt, D., & Huang, M.. (2022). Family-Centered Prevention During Elementary School to Reduce Growth in Emotional and Behavior Problems. Journal of Emotional and Behavioral Disorders, 10634266221143720. [paper]\nXia, Y., Luo, Y., Huang, M., & Yang, Y. (2022). On the use of inclusive strategy when some participants fail to provide data on all studied variables. International Journal of Quantitative Research in Education, 5(4), 356-378. [paper]\nHuang, M. Anderson, C. (2021). A Bayesian solution to non-convergence of crossed random effects models. Quantitative Psychology: The 85th Annual Meeting of the Psychometric Society, Virtual, (pp. 297-307). Springer International Publishing. [paper]"
   }
 ]

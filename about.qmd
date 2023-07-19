@@ -17,13 +17,13 @@ about:
       href: https://scholar.google.com/citations?user=VLXXJ7QAAAAJ&hl=en&oi=ao
     - text: ORCID
       href: https://orcid.org/0000-0002-0647-7390
-    - text: ArXiv
+    - text: arXiv
       href: https://osf.io/scxb9/
 ---
 
 # About
 
-I am a Ph.D. student in Quantitative Methods in Educational Psychology, working with [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/) and [Dr. Sameer Deshpande](https://skdeshpande91.github.io/) at University of Wisconsin-Madison. Prior to that, I graduated with an M.S. in Quantitative Methodology under the supervision of [Dr. Carolyn Anderson](https://cja.education.illinois.edu/) at University of Illinois Urbana-Champaign.\
+I am a Ph.D. student in Quantitative Methods working with [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/) and [Dr. Sameer Deshpande](https://skdeshpande91.github.io/) at University of Wisconsin-Madison. Prior to that, I graduated with an M.S. in Quantitative Methodology under the supervision of [Dr. Carolyn Anderson](https://cja.education.illinois.edu/) at University of Illinois Urbana-Champaign.\
 \
 My research involves developing and applying Bayesian Statistics as well as Machine Learning methods for problems in social and behavioral sciences. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data.
 

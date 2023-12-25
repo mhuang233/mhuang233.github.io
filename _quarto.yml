@@ -5,19 +5,28 @@ project:
 website:
   title: "Mingya HUANG"
   navbar:
+    search: true
     right:
       - href: about.qmd
         text: Home
       - href: publications.qmd
-        text: Publications
+        text: Research
       - href: teaching.qmd
         text: Teaching
+      - icon: github
+        href: https://github.com/mhuang233
 
 format:
   html:
-    theme: cosmo
+    page-layout: full
+    theme: 
+      light: cosmo
+      dark: slate
     css: styles.css
-    toc: true
+    toc: false
+    mainfont: system-ui;
+    fontsize: 1.2em
+    linestretch: 1.7
 
 editor: visual
 

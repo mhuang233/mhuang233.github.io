@@ -33,6 +33,6 @@ My research involves developing and applying Bayesian Statistics as well as Mach
 
 -   Machine Learning
 
--   Clustering (Hierarchical)
+-   Clustering
 
 -   Causal Inference

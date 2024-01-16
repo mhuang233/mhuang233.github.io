@@ -4,7 +4,7 @@ title: "Publications"
 
 ## Preprints
 
--   **Mingya Huang**, David Kaplan (2023+). Bayesian Stacking In Multilevel Models \[[preprint](https://psyarxiv.com/e9m6x/)\] \[[code](https://github.com/huskyh233)\]
+-   **Huang, M.**, David Kaplan (2023+). Predictive Performance of Bayesian Stacking in Multilevel Education Data \[[preprint](https://psyarxiv.com/e9m6x/)\] \[[code](https://github.com/huskyh233)\]
 
 ## Peer-reviewed Papers
 

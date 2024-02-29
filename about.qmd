@@ -5,20 +5,25 @@ about:
   template: trestles
   image-width: 18em
   image-shape: round
-  links: 
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=VLXXJ7QAAAAJ&hl=en&oi=ao 
     - icon: github
       text: GitHub
       href: https://github.com/mhuang233
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/MingyaHuang
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/mingya-huang-5ab1b11a7/
-    - icon: mortarboard-fill
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=VLXXJ7QAAAAJ&hl=en&oi=ao
-    - text: ORCID
-      href: https://orcid.org/0000-0002-0647-7390
     - text: arXiv
       href: https://osf.io/scxb9/
+    - text: ORCID
+      href: https://orcid.org/0000-0002-0647-7390
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Mingya-Huang-2
 ---
 
 # About

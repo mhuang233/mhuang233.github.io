@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Mingya HUANG",
     "section": "",
-    "text": "I am a Ph.D. Candidate in Quantitative Methods in the Department of Educational Psychology working with Dr. David Kaplan and Dr. Sameer Deshpande at University of Wisconsin-Madison. Prior to that, I graduated with a M.S. in Quantitative Methodology, Measurement and Statistics under the supervision of Dr. Carolyn Anderson at University of Illinois Urbana-Champaign.\n\nMy research involves developing and applying Bayesian Statistics as well as Machine Learning methods for problems in social and behavioral sciences. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data.\n\n\n\nBayesian Statistics\nMachine Learning\nClustering\nCausal Inference"
+    "text": "I am a Ph.D. Candidate in Quantitative Methods within the Department of Educational Psychology working with Dr. David Kaplan and Dr. Sameer Deshpande at University of Wisconsin-Madison. Prior to that, I graduated with a M.S. in Quantitative Methodology, Measurement, Statistics and Evaluation under the supervision of Dr. Carolyn Anderson at University of Illinois Urbana-Champaign.\n\nMy research involves developing and applying Bayesian Statistics as well as Machine Learning methods for problems in social and behavioral sciences. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data.\n\n\n\nBayesian Statistics\nMachine Learning\nClustering\nCausal Inference"
   },
   {
     "objectID": "about.html#interests",
@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Mingya HUANG",
     "section": "",
-    "text": "I am a Ph.D. Candidate in Quantitative Methods in the Department of Educational Psychology working with Dr. David Kaplan and Dr. Sameer Deshpande at University of Wisconsin-Madison. Prior to that, I graduated with a M.S. in Quantitative Methodology, Measurement and Statistics under the supervision of Dr. Carolyn Anderson at University of Illinois Urbana-Champaign.\n\nMy research involves developing and applying Bayesian Statistics as well as Machine Learning methods for problems in social and behavioral sciences. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data.\n\n\n\nBayesian Statistics\nMachine Learning\nClustering\nCausal Inference"
+    "text": "I am a Ph.D. Candidate in Quantitative Methods within the Department of Educational Psychology working with Dr. David Kaplan and Dr. Sameer Deshpande at University of Wisconsin-Madison. Prior to that, I graduated with a M.S. in Quantitative Methodology, Measurement, Statistics and Evaluation under the supervision of Dr. Carolyn Anderson at University of Illinois Urbana-Champaign.\n\nMy research involves developing and applying Bayesian Statistics as well as Machine Learning methods for problems in social and behavioral sciences. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data.\n\n\n\nBayesian Statistics\nMachine Learning\nClustering\nCausal Inference"
   },
   {
     "objectID": "index.html#interests",
@@ -60,20 +60,20 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Huang, M., David Kaplan (2024). [Accepted] Predictive Performance of Bayesian Stacking in Multilevel Education Data. Journal of Educational and Behavioral Statistics [preprint] [code]"
+    "text": "Huang, M., David Kaplan (2024). [In press] Predictive Performance of Bayesian Stacking in Multilevel Education Data. Journal of Educational and Behavioral Statistics [preprint] [code]"
   },
   {
     "objectID": "publications.html#preprints",
     "href": "publications.html#preprints",
     "title": "Publications",
     "section": "",
-    "text": "Huang, M., David Kaplan (2024). [Accepted] Predictive Performance of Bayesian Stacking in Multilevel Education Data. Journal of Educational and Behavioral Statistics [preprint] [code]"
+    "text": "Huang, M., David Kaplan (2024). [In press] Predictive Performance of Bayesian Stacking in Multilevel Education Data. Journal of Educational and Behavioral Statistics [preprint] [code]"
   },
   {
     "objectID": "publications.html#peer-reviewed-papers",
     "href": "publications.html#peer-reviewed-papers",
     "title": "Publications",
     "section": "Peer-reviewed Papers",
-    "text": "Peer-reviewed Papers\n\nKaplan, D., & Huang, M. (2021). Bayesian probabilistic forecasting with large-scale educational trend data: a case study using NAEP. Large-scale Assessments in Education, 9(1), 1-31. [paper]\nGarbacz, S. A., Stormshak, E. A., McIntyre, L. L., Bolt, D., & Huang, M. (2022). Family-Centered Prevention During Elementary School to Reduce Growth in Emotional and Behavior Problems. Journal of Emotional and Behavioral Disorders, 10634266221143720. [paper]\nXia, Y., Luo, Y., Huang, M., & Yang, Y. (2022). On the use of inclusive strategy when some participants fail to provide data on all studied variables. International Journal of Quantitative Research in Education, 5(4), 356-378. [paper]\nHuang, M. Anderson, C. (2021). A Bayesian solution to non-convergence of crossed random effects models. Quantitative Psychology: The 85th Annual Meeting of the Psychometric Society, Virtual, (pp. 297-307). Springer International Publishing. [paper]"
+    "text": "Peer-reviewed Papers\n\nGarbacz, S. A., Stormshak, E. A., McIntyre, L. L., Bolt, D., & Huang, M. (2022). Family-Centered Prevention During Elementary School to Reduce Growth in Emotional and Behavior Problems. Journal of Emotional and Behavioral Disorders, 10634266221143720. [paper]\nXia, Y., Luo, Y., Huang, M., & Yang, Y. (2022). On the use of inclusive strategy when some participants fail to provide data on all studied variables. International Journal of Quantitative Research in Education, 5(4), 356-378. [paper]\nHuang, M. Anderson, C. (2021). A Bayesian solution to non-convergence of crossed random effects models. Quantitative Psychology: The 85th Annual Meeting of the Psychometric Society, Virtual, (pp. 297-307). Springer International Publishing. [paper]\nKaplan, D., & Huang, M. (2021). Bayesian probabilistic forecasting with large-scale educational trend data: a case study using NAEP. Large-scale Assessments in Education, 9(1), 1-31. [paper]"
   }
 ]

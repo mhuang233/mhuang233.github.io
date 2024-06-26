@@ -8,9 +8,9 @@ website:
     search: true
     right:
       - href: about.qmd
-        text: Home
-      #- href: CV_MHUANG.pdf
-      #  text: Vitae
+        text: About
+      - href: CV_MHUANG.pdf
+        text: Vitae
       - href: publications.qmd
         text: Research
       - href: teaching.qmd

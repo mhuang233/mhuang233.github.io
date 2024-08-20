@@ -9,14 +9,14 @@ website:
     right:
       - href: about.qmd
         text: About
-      - href: CV_MHUANG.pdf
-        text: Vitae
+      #- href: CV_MHUANG.pdf
+      #  text: Vitae
       - href: publications.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - icon: github
-        href: https://github.com/mhuang233
+      #- icon: github
+      #  href: https://github.com/mhuang233
 
 format:
   html:

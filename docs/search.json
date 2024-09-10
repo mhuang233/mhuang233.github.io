@@ -60,14 +60,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Huang, M. (2024+). Bayesian additive regression trees for estimating heterogeneous trajectories of test scores in large-scale education assessments. [preprint]"
+    "text": "Huang, M. (2024+). Bayesian treed regressions for estimating heterogeneous trajectories of test scores in large-scale education assessments. [preprint]"
   },
   {
     "objectID": "publications.html#preprints",
     "href": "publications.html#preprints",
     "title": "Publications",
     "section": "",
-    "text": "Huang, M. (2024+). Bayesian additive regression trees for estimating heterogeneous trajectories of test scores in large-scale education assessments. [preprint]"
+    "text": "Huang, M. (2024+). Bayesian treed regressions for estimating heterogeneous trajectories of test scores in large-scale education assessments. [preprint]"
   },
   {
     "objectID": "publications.html#peer-reviewed-papers",
@@ -80,15 +80,15 @@
     "objectID": "about.html#research-interests",
     "href": "about.html#research-interests",
     "title": "Mingya HUANG",
-    "section": "",
-    "text": "Bayesian Statistics\nMachine Learning\nClustering\nCausal Inference"
+    "section": "Research Interests",
+    "text": "Research Interests\n\nBayesian Statistics\nMachine Learning\nMultilevel Modeling\nCausal Inference"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Mingya HUANG",
     "section": "",
-    "text": "Bayesian Statistics\nMachine Learning\nClustering\nCausal Inference"
+    "text": "Bayesian Statistics\nMachine Learning\nMultilevel Modeling\nCausal Inference"
   },
   {
     "objectID": "publications.html#peer-reviewed-articles",
@@ -145,5 +145,40 @@
     "title": "Mingya HUANG",
     "section": "",
     "text": "Bayesian Statistics\nMachine Learning\nHierarchical Clustering\nCausal Inference"
+  },
+  {
+    "objectID": "about.html#news",
+    "href": "about.html#news",
+    "title": "Mingya HUANG",
+    "section": "News",
+    "text": "News\n\nSeptember 2024: Presented research on Bayesian nonparametrics at the International Conference on Machine Learning (ICML).\nJuly 2024: Published a new paper on Bayesian additive regression trees in the Journal of Educational and Behavioral Statistics.\nMay 2024: Awarded the Outstanding Graduate Student Researcher Award by the Department of Educational Psychology at UW–Madison.\nMarch 2024: Invited to give a guest lecture on Applied Bayesian Statistics at Stanford University."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Mingya HUANG",
+    "section": "News",
+    "text": "News\n\nSeptember 2024: Presented research on Bayesian nonparametrics at the International Conference on Machine Learning (ICML).\nJuly 2024: Published a new paper on Bayesian additive regression trees in the Journal of Educational and Behavioral Statistics.\nMay 2024: Awarded the Outstanding Graduate Student Researcher Award by the Department of Educational Psychology at UW–Madison.\nMarch 2024: Invited to give a guest lecture on Applied Bayesian Statistics at Stanford University."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Mingya HUANG",
+    "section": "",
+    "text": "I am a Quantitative Methods Ph.D. Candidate in the Department of Educational Psychology at UW–Madison. My research involves leveraging Bayesian statistics and machine learning methods to tackle problems in social and behavioral science. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Mingya HUANG",
+    "section": "",
+    "text": "I am a Quantitative Methods Ph.D. Candidate in the Department of Educational Psychology at UW–Madison. My research involves leveraging Bayesian statistics and machine learning methods to tackle problems in social and behavioral science. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale clustered data."
+  },
+  {
+    "objectID": "about.html#recent-news",
+    "href": "about.html#recent-news",
+    "title": "Mingya HUANG",
+    "section": "Recent News",
+    "text": "Recent News\n\nSeptember 2024 Presented research on Bayesian nonparametrics at the International Conference on Machine Learning (ICML).\nJuly 2024 Published a new paper on Bayesian additive regression trees in the Journal of Educational and Behavioral Statistics.\nMay 2024 Awarded the Outstanding Graduate Student Researcher Award by the Department of Educational Psychology at UW–Madison.\nMarch 2024 Invited to give a guest lecture on Applied Bayesian Statistics at Stanford University."
   }
 ]

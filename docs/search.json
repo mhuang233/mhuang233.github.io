@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Mingya HUANG",
     "section": "",
-    "text": "About Me\nI am a Ph.D. Candidate of Quantitative Methods in the Department of Educational Psychology at UW–Madison. My research involves leveraging Bayesian statistics and machine learning methods to tackle problems in social and behavioral sciences. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale assessments.\n\n\nResearch Interests\n\nBayesian Statistics\nMachine Learning\nMultilevel Modeling\nCausal Inference"
+    "text": "About Me\nI am a Quantitative Methods Ph.D. Candidate in the Department of Educational Psychology, with a M.S. in Statistics and a Minor in Computer Sciences at UW–Madison. My research involves leveraging Bayesian statistics and AI/Machine learning methods to tackle problems in social and behavioral sciences. Currently, my work focuses on utilizing Bayesian nonparametrics and its applications in large-scale assessments.\n\n\nResearch Interests\n\nBayesian Statistics\nMachine Learning\nMultilevel Modeling\nCausal Inference"
   },
   {
     "objectID": "about.html#interests",
@@ -18,7 +18,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "ED PSYCH 965 Applied Bayesian Statistics for Education Research\nGuest Lecturer\nED PSYCH 964 Hierarchical Linear Modeling\nTeaching Assistant\nED PSYCH 763 Regression Models in Education\nTeaching Assistant\nED PSYCH 762 Introduction to the Design of Educational Experiments\nTeaching Assistant\nED PSYCH 761 Statistical Methods Applied to Education II\nTeaching Assistant | Guest Lecturer\nED PSYCH 760 Statistical Methods Applied to Education I\nTeaching Assistant"
+    "text": "ED PSYCH 965 Applied Bayesian Statistics for Education Research\nED PSYCH 964 Hierarchical Linear Modeling\nED PSYCH 763 Regression Models in Education\nED PSYCH 762 Introduction to the Design of Educational Experiments\nED PSYCH 761 Statistical Methods Applied to Education II\nED PSYCH 760 Statistical Methods Applied to Education I"
   },
   {
     "objectID": "teaching.html#university-of-wisconsin-madison",
@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Mingya HUANG",
     "section": "",
-    "text": "About Me\nI am a Ph.D. Candidate of Quantitative Methods in the Department of Educational Psychology at UW–Madison. My research involves leveraging Bayesian statistics and machine learning methods to tackle problems in social and behavioral sciences. Currently, my work focuses on Bayesian nonparametrics and its application in large-scale assessments.\n\n\nResearch Interests\n\nBayesian Statistics\nMachine Learning\nMultilevel Modeling\nCausal Inference"
+    "text": "About Me\nI am a Quantitative Methods Ph.D. Candidate in the Department of Educational Psychology, with a M.S. in Statistics and a Minor in Computer Sciences at UW–Madison. My research involves leveraging Bayesian statistics and AI/Machine learning methods to tackle problems in social and behavioral sciences. Currently, my work focuses on utilizing Bayesian nonparametrics and its applications in large-scale assessments.\n\n\nResearch Interests\n\nBayesian Statistics\nMachine Learning\nMultilevel Modeling\nCausal Inference"
   },
   {
     "objectID": "index.html#interests",
@@ -60,14 +60,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Huang, M. (2024+). Bayesian treed regressions for estimating heterogeneous trajectories of test scores in large-scale education assessments. [preprint]"
+    "text": "Huang, M. (2025+). Bayesian treed regressions for estimating heterogeneous trajectories of test scores in large-scale education assessments. [preprint]"
   },
   {
     "objectID": "publications.html#preprints",
     "href": "publications.html#preprints",
     "title": "Publications",
     "section": "",
-    "text": "Huang, M. (2024+). Bayesian treed regressions for estimating heterogeneous trajectories of test scores in large-scale education assessments. [preprint]"
+    "text": "Huang, M. (2025+). Bayesian treed regressions for estimating heterogeneous trajectories of test scores in large-scale education assessments. [preprint]"
   },
   {
     "objectID": "publications.html#peer-reviewed-papers",
@@ -123,14 +123,14 @@
     "href": "teaching.html#university-of-wisconsinmadison",
     "title": "Teaching",
     "section": "",
-    "text": "ED PSYCH 965 Applied Bayesian Statistics for Education Research\nGuest Lecturer\nED PSYCH 964 Hierarchical Linear Modeling\nTeaching Assistant\nED PSYCH 763 Regression Models in Education\nTeaching Assistant\nED PSYCH 762 Introduction to the Design of Educational Experiments\nTeaching Assistant\nED PSYCH 761 Statistical Methods Applied to Education II\nTeaching Assistant | Guest Lecturer\nED PSYCH 760 Statistical Methods Applied to Education I\nTeaching Assistant"
+    "text": "ED PSYCH 965 Applied Bayesian Statistics for Education Research\nED PSYCH 964 Hierarchical Linear Modeling\nED PSYCH 763 Regression Models in Education\nED PSYCH 762 Introduction to the Design of Educational Experiments\nED PSYCH 761 Statistical Methods Applied to Education II\nED PSYCH 760 Statistical Methods Applied to Education I"
   },
   {
     "objectID": "teaching.html#university-of-illinois-urbanachampaign",
     "href": "teaching.html#university-of-illinois-urbanachampaign",
     "title": "Teaching",
     "section": "University of Illinois Urbana–Champaign",
-    "text": "University of Illinois Urbana–Champaign\n\nEPSY 199 Undergraduate Open Seminar–Research Methods in Educational Studies\nGraduate Teaching Assistant"
+    "text": "University of Illinois Urbana–Champaign\n\nEPSY 199 Undergraduate Open Seminar–Research Methods in Educational Studies"
   },
   {
     "objectID": "about_backup.html",
@@ -180,5 +180,19 @@
     "title": "Mingya HUANG",
     "section": "Recent News",
     "text": "Recent News\n\nSeptember 2024 Presented research on Bayesian nonparametrics at the International Conference on Machine Learning (ICML).\nJuly 2024 Published a new paper on Bayesian additive regression trees in the Journal of Educational and Behavioral Statistics.\nMay 2024 Awarded the Outstanding Graduate Student Researcher Award by the Department of Educational Psychology at UW–Madison.\nMarch 2024 Invited to give a guest lecture on Applied Bayesian Statistics at Stanford University."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-journal-articles",
+    "href": "publications.html#peer-reviewed-journal-articles",
+    "title": "Publications",
+    "section": "Peer-reviewed Journal Articles",
+    "text": "Peer-reviewed Journal Articles\n\nHuang, M., & Kaplan D. (2024). Predictive Performance of Bayesian Stacking in Multilevel Education Data. Journal of Educational and Behavioral Statistics. [paper] [preprint] [code]\nGarbacz, S. A., Stormshak, E. A., McIntyre, L. L., Bolt, D., & Huang, M. (2024). Family-Centered Prevention During Elementary School to Reduce Growth in Emotional and Behavior Problems. Journal of Emotional and Behavioral Disorders, 10634266221143720. [paper]\nXia, Y., Luo, Y., Huang, M., & Yang, Y. (2022). On the use of inclusive strategy when some participants fail to provide data on all studied variables. International Journal of Quantitative Research in Education, 5(4), 356-378. [paper]\nKaplan, D., & Huang, M. (2021). Bayesian probabilistic forecasting with large-scale educational trend data: a case study using NAEP. Large-scale Assessments in Education, 9(1), 1-31. [paper]"
+  },
+  {
+    "objectID": "teaching.html#jefferson-middle-school",
+    "href": "teaching.html#jefferson-middle-school",
+    "title": "Teaching",
+    "section": "Jefferson Middle School",
+    "text": "Jefferson Middle School\n\nIntern Homeroom Teacher"
   }
 ]

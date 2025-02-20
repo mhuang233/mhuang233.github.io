@@ -18,7 +18,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "ED PSYCH 965 Applied Bayesian Statistics for Education Research\nED PSYCH 964 Hierarchical Linear Modeling\nED PSYCH 763 Regression Models in Education\nED PSYCH 762 Introduction to the Design of Educational Experiments\nED PSYCH 761 Statistical Methods Applied to Education II\nED PSYCH 760 Statistical Methods Applied to Education I"
+    "text": "ED PSYCH 965 Applied Bayesian Statistics for Education Research\nED PSYCH 763 Regression Models in Education\nED PSYCH 762 Introduction to the Design of Educational Experiments\nED PSYCH 761 Statistical Methods Applied to Education II\nED PSYCH 760 Statistical Methods Applied to Education I"
   },
   {
     "objectID": "teaching.html#university-of-wisconsin-madison",
@@ -123,7 +123,7 @@
     "href": "teaching.html#university-of-wisconsinmadison",
     "title": "Teaching",
     "section": "",
-    "text": "ED PSYCH 965 Applied Bayesian Statistics for Education Research\nED PSYCH 964 Hierarchical Linear Modeling\nED PSYCH 763 Regression Models in Education\nED PSYCH 762 Introduction to the Design of Educational Experiments\nED PSYCH 761 Statistical Methods Applied to Education II\nED PSYCH 760 Statistical Methods Applied to Education I"
+    "text": "ED PSYCH 965 Applied Bayesian Statistics for Education Research\nED PSYCH 763 Regression Models in Education\nED PSYCH 762 Introduction to the Design of Educational Experiments\nED PSYCH 761 Statistical Methods Applied to Education II\nED PSYCH 760 Statistical Methods Applied to Education I"
   },
   {
     "objectID": "teaching.html#university-of-illinois-urbanachampaign",
@@ -194,5 +194,12 @@
     "title": "Teaching",
     "section": "Jefferson Middle School",
     "text": "Jefferson Middle School\n\nIntern Homeroom Teacher"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Under construction."
   }
 ]

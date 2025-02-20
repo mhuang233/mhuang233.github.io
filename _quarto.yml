@@ -9,7 +9,7 @@ website:
     right:
       - href: about.qmd
         text: About
-      - href: CV_MHUANG.pdf
+      - href: cv.qmd #CV_MHUANG.pdf
         text: Vitae
       - href: publications.qmd
         text: Research

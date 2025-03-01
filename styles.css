@@ -1,1 +1,67 @@
 /* css styles */
+a {
+  color: teal;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Target specifically the links in the publications section */
+section.level2 a {
+  color: teal;
+  transition: color 0.2s ease;
+}
+
+section.level2 a:hover {
+  color: #006666; /* Darker teal on hover */
+}
+
+/* Style the page titles */
+.quarto-title h1.title {
+  color: teal;
+}
+
+h1, h2 {
+  color: teal;
+}
+
+/* Make navbar title bold and teal */
+.navbar-title {
+  font-weight: bold;
+  color: teal !important;
+}
+
+/* Style the navigation tabs */
+.navbar-nav .nav-link {
+  color: teal !important;
+  transition: color 0.2s ease, border-bottom 0.2s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: #008B8B !important; /* Slightly brighter teal on hover/active */
+  border-bottom: 2px solid teal;
+}
+
+/* Add a subtle underline effect on hover for nav items */
+.navbar-nav .nav-item {
+  position: relative;
+}
+
+.navbar-nav .nav-item::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  background-color: teal;
+  transition: all 0.3s ease;
+}
+
+.navbar-nav .nav-item:hover::after {
+  width: 100%;
+  left: 0;
+}

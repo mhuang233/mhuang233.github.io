@@ -17,6 +17,9 @@ website:
         text: Teaching
       #- icon: github
       #  href: https://github.com/mhuang233
+  page-footer:
+    center: "Copyright © 2025 M Huang"
+    border: false
 
 format:
   html:
@@ -30,4 +33,3 @@ format:
     linestretch: 1.7
 
 editor: visual
-
